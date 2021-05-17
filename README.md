@@ -17,8 +17,8 @@ This is a repository for all open-sourced or available files for my projects. PC
 
 | *Project* | *Description* | *Available Files* | Image |
 | --- | --- | --- | --- |
-| [MB-44 Plates]() | Plate files for the MB-44 keyboard| .dxf |
-| [Encoder Knob]() | Generic knob that fits EC11 encoders. 3d printable. | .step, .stl | <img src="https://raw.githubusercontent.com/melonbred/open-source-projects/main/.file-data/encoder-knob.png" width="300px" />
+| [MB-44 Plates](https://github.com/melonbred/open-source-projects/tree/main/miscellaneous/mb44-plate-files) | Plate files for the MB-44 keyboard| .dxf |
+| [Encoder Knob](https://github.com/melonbred/open-source-projects/tree/main/miscellaneous/encoder-knobs) | Generic knob that fits EC11 encoders. 3d printable. | .step, .stl | <img src="https://raw.githubusercontent.com/melonbred/open-source-projects/main/.file-data/encoder-knob.png" width="300px" />
 
 ---
 
