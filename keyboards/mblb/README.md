@@ -1,12 +1,18 @@
 # MBLB
 
-![](https://github.com/melonbred/kb-daughterboard/blob/main/images/kb-db.png?raw=true)
+![](https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_assembled.jpg?raw=true)
 
 ## Introduction
 
 This project is a 12.5u WKL main cluster + macro column 40% keyboard that was created to accomplish two goals:
 - Learn about STM32 microprocessors.
 - Practice trace routing with curved traces.
+
+### KLE
+![KLE](https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_kle.png?raw=true)
+
+### PCB
+![PCB](https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_pcb.png?raw=true)
 
 
 ## Features
