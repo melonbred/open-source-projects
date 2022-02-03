@@ -5,6 +5,13 @@ This is a repository for all open-sourced or available files for my projects. PC
 
 ---
 
+## Keyboards
+
+| *Project* | *Description* | *Available Files* | Image |
+| --- | --- | --- | --- |
+| [MBLB](https://github.com/melonbred/open-source-projects/tree/main/keyboards/mblb) | 12.5u main cluster + macro column 40% keyboard, rotary encoder support, STM32 microprocessor | KiCAD, Gerbers, .dxf, .step | <img src="https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_assembled.jpg?raw=true" width="300px" />
+
+
 ## PCBs
 
 | *Project* | *Description* | *Available Files* | Image |

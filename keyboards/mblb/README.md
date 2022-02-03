@@ -1,6 +1,6 @@
 # MBLB
 
-![](https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_assembled.jpg?raw=true)
+<img src="https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_assembled.jpg?raw=true)" width="700px" />
 
 ## Introduction
 
@@ -9,11 +9,10 @@ This project is a 12.5u WKL main cluster + macro column 40% keyboard that was cr
 - Practice trace routing with curved traces.
 
 ### KLE
-![KLE](https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_kle.png?raw=true)
+<img src="https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_kle.png?raw=true" width="700px" />
 
 ### PCB
-![PCB](https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_pcb.png?raw=true)
-
+<img src="https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_pcb.png?raw=true" width="700px" />
 
 ## Features
 This PCB features the following:
