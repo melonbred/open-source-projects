@@ -18,7 +18,7 @@ This project is a 12.5u WKL main cluster + macro column 40% keyboard that was cr
 This PCB features the following:
 - Powered by an STM32F072 microprocessor.
 - Traditional overcharge, overcurrent and ESD protection.
-- RGB LED lightbard between the macro column and 12.5u main cluster.
+- RGB LED lightbar between the macro column and 12.5u main cluster.
 - Maximum of 4 rotary encoders on the macro column.
 
 
