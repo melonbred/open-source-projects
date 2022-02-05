@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The MB-44 is a 12.75u layout with a fun 65%-esque blocker separating the arrow cluster. 
+The MB-44 is a 12.75u layout 0.5u blocker separating spacebars from the arrow cluster similar to typical 65% layout. 
 
 Group buy for this keyboard ran through [Aeternus](https://store.aeternus.co/) on April 9th, 2021, and all group buy orders were shipped in November, 2021. Extra units were sold on November 19, 2021. The project was successfully completed in December, 2021. 
 
@@ -16,8 +16,8 @@ This repository includes kicad directory, pcb production files, case files in va
 
 
 ## Features
-- Modified minivan layout with a 0.5u blocker separating spacebars from the arrow cluster similar to typical 65% layout.
-- Big bar and two split bar layout options (3u gang!).
+- 12.75u layout 0.5u blocker separating spacebars from the arrow cluster similar to typical 65% layout. 
+- Big bar and three split bar layout options.
 - PCB powered by an Atmega32u2 and Unified C3 daughterboard (type-c and ESD protection) running QMK.
 - Top mount.
 - Fun two-piece case design with a 7 degree typing angle.

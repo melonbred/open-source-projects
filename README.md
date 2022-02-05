@@ -10,7 +10,7 @@ This is a repository for all open-sourced or available files for my projects. PC
 | *Project* | *Description* | *Available Files* | Image |
 | --- | --- | --- | --- |
 | [MBLB](https://github.com/melonbred/open-source-projects/tree/main/keyboards/mblb) | 12.5u main cluster + macro column 40% keyboard, rotary encoder support, STM32 microprocessor. | KiCAD, Gerbers, .dxf, .step | <img src="https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_assembled.jpg?raw=true" width="300px" />
-| [MB-44](https://github.com/melonbred/open-source-projects/tree/main/keyboards/mb44) | 1The MB-44 is a 12.75u layout with a fun 65%-esque blocker separating the arrow cluster. | KiCAD, Gerbers, .dxf, .step | <img src="https://camo.githubusercontent.com/59a6f6feec84c245a4fa1bb8224d373cc0f33a816c3d76b68d9030bf307c3c05/68747470733a2f2f696d6775722e636f6d2f4c62546c4d4d392e6a706729" width="300px" />
+| [MB-44](https://github.com/melonbred/open-source-projects/tree/main/keyboards/mb44) | The MB-44 is a 12.75u layout with a fun 65%-esque blocker separating the arrow cluster. | KiCAD, Gerbers, .dxf, .step | <img src="https://camo.githubusercontent.com/59a6f6feec84c245a4fa1bb8224d373cc0f33a816c3d76b68d9030bf307c3c05/68747470733a2f2f696d6775722e636f6d2f4c62546c4d4d392e6a706729" width="300px" />
 
 
 ## PCBs
