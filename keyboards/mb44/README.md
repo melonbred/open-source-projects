@@ -6,7 +6,7 @@
 
 ## Introduction
 
-The MB-44 is a Minivan inspired layout with a fun 65%-esque blocker separating the arrow cluster. 
+The MB-44 is a 12.75u layout with a fun 65%-esque blocker separating the arrow cluster. 
 
 Group buy for this keyboard ran through [Aeternus](https://store.aeternus.co/) on April 9th, 2021, and all group buy orders were shipped in November, 2021. Extra units were sold on November 19, 2021. The project was successfully completed in December, 2021. 
 
@@ -23,7 +23,7 @@ This repository includes kicad directory, pcb production files, case files in va
 - Fun two-piece case design with a 7 degree typing angle.
 
 ### KLE
-<img src="https://github.com/melonbred/open-source-projects/blob/main/keyboards/mblb/images/mblb_kle.png?raw=true" width="700px" />
+<img src="https://github.com/melonbred/open-source-projects/blob/main/keyboards/mb44/images/mb44_kle.png?raw=true" width="700px" />
 
 ## Production
 Please note that the pcb production files were prepared with JLCPCB's SMT assembly in mind. Should you deicide to proceed with a different manufacturer, the Bill of Materials (BOM) and position files may need to be modified.
