@@ -28,6 +28,10 @@ This repository includes kicad directory, pcb production files, case files in va
 ## Production
 Please note that the pcb production files were prepared with JLCPCB's SMT assembly in mind. Should you deicide to proceed with a different manufacturer, the Bill of Materials (BOM) and position files may need to be modified.
 
+Vial firmware is provided in this repository. Check out their website for more information on Vial: https://get.vial.today/
+
+Firmware is also accessible through [QMK Configurator](https://config.qmk.fm/#/mb44/LAYOUT_default)
+
 
 ## Acknowledgment
 
