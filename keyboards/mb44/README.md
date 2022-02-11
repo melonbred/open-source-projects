@@ -30,7 +30,7 @@ Please note that the pcb production files were prepared with JLCPCB's SMT assemb
 
 Vial firmware is provided in this repository. Check out their website for more information on Vial: https://get.vial.today/
 
-Firmware is also accessible through [QMK Configurator](https://config.qmk.fm/#/mb44/LAYOUT_default)
+Firmware is also accessible through [QMK Configurator](https://config.qmk.fm/#/mb44/LAYOUT_default).
 
 
 ## Acknowledgment
