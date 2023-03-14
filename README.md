@@ -20,6 +20,7 @@ This is a repository for all open-sourced or available files for my projects. PC
 | [Program Yoink!](https://github.com/melonbred/program-yoink) | 12u main cluster with exploded arrows and macro columm | KiCAD, Gerbers| <img src="https://raw.githubusercontent.com/melonbred/program-yoink/main/.images/kle.png" width="300px" />
 | [SPM1800](https://github.com/melonbred/SPM1800) | Southpaw compact mini 1800 | KiCAD, Gerbers | <img src="https://raw.githubusercontent.com/melonbred/SPM1800/master/.github/layout.png" width="300px" />
 |[kb-daughterboard](https://github.com/melonbred/kb-daughterboard) | USB-C daughterboard with ESD, overcurrent and overvoltage protection. 2 versions available - USB-C receptacle flush with PCB and protruded| KiCAD, Gerbers, .step| <img src="https://github.com/melonbred/kb-daughterboard/raw/main/images/kb-db.png?raw=true" width="300px" />
+| [Pegasus](https://github.com/melonbred/pegasus) | 12.75u 40% keyboard with 0.75u "WKL" blockers | KiCAD, Gerbers | <img src="https://raw.githubusercontent.com/melonbred/pegasus/main/images/pegasus_kle.png" width="300px" />
 
 
 ## Miscellaneous
