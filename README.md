@@ -8,11 +8,12 @@ This is a repository for all open-sourced or available files for my projects. PC
 
 ## Keyboards
 
-| _Project_                                                                                | _Description_                                                                                 | _Available Files_           | Image                                                                   |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------------------------------- |
-| [MBLB](https://github.com/melonbred/open-source-projects/tree/main/keyboards/mblb)       | 12.5u main cluster + macro column 40% keyboard, rotary encoder support, STM32 microprocessor. | KiCAD, Gerbers, .dxf, .step | <img src="./keyboards/mblb/images/mblb_assembled.jpg" width="300px" />  |
-| [MB-44](https://github.com/melonbred/open-source-projects/tree/main/keyboards/mb44)      | The MB-44 is a 12.75u layout with a fun 65%-esque blocker separating the arrow cluster.       | KiCAD, Gerbers, .dxf, .step | <img src="./keyboards/mb44/images/mb44_kokaloo.jpg" width="300px" />    |
-| [Pegasus](https://github.com/melonbred/open-source-projects/tree/main/keyboards/pegasus) | 12.75u 40% keyboard with 0.75u "WKL" blockers                                                 | KiCAD, Gerbers, .step, .fbx | <img src="./keyboards/pegasus/images/pegasus_top.png?" width="300px" /> |
+| <div style="width:100px">_Project_</div>                                                 | _Description_                                                                                 | _Available Files_           | Image                                                                                                      |
+| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| [MBLB](https://github.com/melonbred/open-source-projects/tree/main/keyboards/mblb)       | 12.5u main cluster + macro column 40% keyboard, rotary encoder support, STM32 microprocessor. | KiCAD, Gerbers, .dxf, .step | <img src="./keyboards/mblb/images/mblb_assembled.jpg" width="300px" />                                     |
+| [MB-44](https://github.com/melonbred/open-source-projects/tree/main/keyboards/mb44)      | The MB-44 is a 12.75u layout with a fun 65%-esque blocker separating the arrow cluster.       | KiCAD, Gerbers, .dxf, .step | <img src="./keyboards/mb44/images/mb44_kokaloo.jpg" width="300px" />                                       |
+| [Pegasus](https://github.com/melonbred/open-source-projects/tree/main/keyboards/pegasus) | 12.75u 40% keyboard with 0.75u "WKL" blockers                                                 | KiCAD, Gerbers, .step, .fbx | <img src="./keyboards/pegasus/images/pegasus_top.png?" width="300px" />                                    |
+| [MB-44 v2](https://github.com/melonbred/mb44v2/tree/main)                                | Update to the MB-44 with refreshed case and PCB.                                              | KiCAD, Gerbers, .dxf, .fbx  | <img src="https://github.com/melonbred/mb44v2/blob/main/images/mb44v2_hero.jpeg?raw=true" width="300px" /> |
 
 ## PCBs
 
